@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502"
+    url: "https://author-p55305-e1511926.adobeaemcloud.com/bin/franklin.delivery/content/aem-xwalk2/main"
     type: "markup"
     suffix: ".html"
